@@ -1,0 +1,216 @@
+/*全体構造*/
+body{
+/*	background-color:#330000;*/
+	background-image:url(img/rennga.png);
+}
+/*内枠設定*/
+#inside-wrapper {
+	margin: 0px auto;
+	width:1024px;
+	height:auto;
+	/*border: 1px solid #000000;*/
+}
+/*ブロック設定*/
+#header {
+	/*border: 1px solid #ffffff;*/
+	width:1023px;
+	height:50px;
+}
+	/*強調*/
+	#header a{
+		font-size:45px;
+		color:#FFFFFF;
+		float:left;
+		text-decoration: none;
+	}
+	#header span{
+		font-size:30px;
+		color:#FFFFFF;
+		float:right;
+		margin: 7px 0px;
+	}
+#menu{
+	/*border: 1px solid #FFFFFF;*/
+	width:1024px;
+	height:50px;
+}
+	#menu a{
+		border: 1px solid #FFFFFF;
+		background-color:#8B4513;
+		font-size:25px;
+		color:#FFFFFF;
+		width:142px;
+		height:50px;
+		float:left;
+		text-align:center;
+		text-decoration: none;
+	}
+	#menu span{
+		font-size:15px;
+		color:#87CEFA;
+	}
+#main01{
+	background-color:white;
+}
+#kako-link3 {
+	border: 1px solid #ffffff;
+	background-color:#8B4513;
+	color:black;
+	width:980px;
+	height:370px;
+	margin:2px;
+}
+
+#kako-link2 {
+	border: 1px solid #ffffff;
+	background-color:#45457a;
+	color:white;
+	width:360px;
+	height:25px;
+	margin:2px;
+}
+
+#kako-link20 {
+	border: 1px solid #ffffff;
+	background-color:#45457a;
+	color:white;
+	width:480px;
+	height:25px;
+	margin:2px;
+}
+
+
+#kako-link4 {
+	border: 1px solid #ffffff;
+	background-color:#ffff80;
+	color:black;
+	width:770px;
+	height:30px;
+	margin:2px;
+}
+
+#kako-link5 {
+	border: 1px solid #ffffff;
+	background-color:#ffff80;
+	color:black;
+	width:770px;
+	height:50px;
+	margin:2px;
+}
+
+#kako-link6 {
+	border: 1px solid #ffffff;
+	background-color:#ffff80;
+	color:black;
+	width:770px;
+	height:90px;
+	margin:2px;
+}
+
+#kako-link7 {
+	border: 1px solid #ffffff;
+	background-color:#ffff80;
+	color:black;
+	width:770px;
+	height:110px;
+	margin:2px;
+}
+
+#kako-link8 {
+	border: 1px solid #ffffff;
+	background-color:#ffff80;
+	color:black;
+	width:770px;
+	height:180px;
+	margin:2px;
+}
+
+#kako-link9 {
+	border: 1px solid #ffffff;
+	background-color:#ffff80;
+	color:black;
+	width:900px;
+	height:2500px;
+	margin:2px;
+}
+
+
+#mainbox01 {
+	/*border: 1px solid #ffffff;*/
+	width:1000px;
+	height:490px;
+}
+#kako-link {
+	border: 1px solid #ffffff;
+	background-color:#8B4513;
+	color:white;
+	width:350px;
+	height:50px;
+	margin:2px;
+}
+	#kako-link a{
+		background-color:white;
+		padding:2px;
+	}
+#video-kai {
+	border: 1px solid #ffffff;
+	background-color:lightcoral;
+	width:970px;
+	height:380px;
+}
+#video-uri {
+	border: 1px solid #ffffff;
+	background-color:paleturquoise;
+	width:970px;
+	height:380px;
+}
+	.mrk-btn{
+		border: 1px solid #696969;
+		font-size:25px;
+		color:#ffffff;
+		width:140px;
+		height:50px;
+		float:left;
+		text-align:center;
+		text-decoration: none;
+		
+		margin:0px 170px;
+	}
+	#kai-btn{
+		background-color:red;
+	}
+	#uri-btn{
+		background-color:blue;
+	}
+	.hou-btn{
+		background-color:LightYellow;
+		border: 1px solid #000000;
+		font-size:20px;
+		color:black;
+		width:70px;
+		height:30px;
+		float:left;
+		text-align:center;
+		text-decoration: none;
+		margin:10px 20px;
+	}
+#beginner {
+	border: 1px solid #ffffff;
+	background-color:white;
+	width:700px;
+	height:auto;
+	margin:0px 200px;
+}
+	#beginner table{
+		background-color:white;
+		font-size:20px;
+		color:black;
+		height:30px;
+		text-align:center;
+		text-decoration: none;
+		margin:10px 20px;
+	}
+		#beginner table .ind{
+			background-color:yellow;
+		}
+	
